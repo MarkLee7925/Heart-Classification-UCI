@@ -19,7 +19,7 @@ Each patient was classified using the following 13 (out of the original 76) feat
     - 3 = Typical
 4. **trestbps** - resting blood pressure (in mmHg)
 5. **chol** - Serum Cholestorol (in mg/dl)
-6. **fbs** - (Fasting blood sugar > 120 mg/dl)
+6. **fbs** - (Fasting Blood Sugar > 120 mg/dl)
     - 1 = True
     - 0 = False
 7. **restecg** - resting electrocardiographic (ECG) results
