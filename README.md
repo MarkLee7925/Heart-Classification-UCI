@@ -9,14 +9,14 @@ The dataset was retrieved from the UCI Machine Learning Repository (link: https:
 Each patient was classified using the following 13 (out of 76) features:
 
 1. **age** - Age of patient
-2. **sex** - Gender\
-    - 0 = Female\
+2. **sex** - Gender
+    - 0 = Female
     - 1 = Male
-3. **cp** - Chest Pain type\
-    - 0 = Nontypical\
-    - 1 = Nonanginal\
-    - 2 = Asymptomatic\
-    - 3 = Typical
+3. **cp** - Chest Pain type
+  - 0 = Nontypical
+  - 1 = Nonanginal
+  - 2 = Asymptomatic
+  - 3 = Typical
 4. **trestbps** - Resting blood pressure (in mmHg)
 5. **chol** - Serum Cholestorol in (mg/dl)
 6. **fbs** - (Fasting blood sugar > 120 mg/dl)\
