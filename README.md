@@ -6,7 +6,7 @@ This Machine Learning classification project utilizes various models to predict 
 
 The dataset was retrieved from the UCI Machine Learning Repository (link: https://archive.ics.uci.edu/ml/datasets/Heart+Disease). It contains 303 samples; each representing a patient tested. 
 
-Each patient was classified using the following 13 (out of 76) features:
+Each patient was classified using the following 13 (out of the original 76) features:
 
 1. **age** - Age of patient
 2. **sex** - Gender
