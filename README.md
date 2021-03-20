@@ -12,7 +12,7 @@ Each patient was classified using the following 13 (out of the original 76) feat
 2. **sex** - gender
     - 0 = Female
     - 1 = Male
-3. **cp** - chest pain type
+3. **cp** - Chest Pain type
     - 0 = Nontypical
     - 1 = Nonanginal
     - 2 = Asymptomatic
@@ -35,7 +35,7 @@ Each patient was classified using the following 13 (out of the original 76) feat
     - 1 = upsloping
     - 2 = flat
     - 3 = downslopin
-12. **ca** - number of major vessels (0-3) colored by flourosopy
+12. **ca** - number of major vessels (0-3) colored by Flourosopy
 13. **thal** - Thalassemia
     - 3 = normal
     - 6 = fixed defect
