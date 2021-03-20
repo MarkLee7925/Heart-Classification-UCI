@@ -34,13 +34,13 @@ Each patient was classified using the following 13 (out of the original 76) feat
 11. **slope** - slope of the peak exercise ST segment
     - 1 = upsloping
     - 2 = flat
-    - 3 = downslopin
+    - 3 = downsloping
 12. **ca** - number of major vessels (0-3) colored by Flourosopy
 13. **thal** - Thalassemia
     - 3 = normal
     - 6 = fixed defect
     - 7 = reversable defect
-14. **num** - Dependent Variable (predicted target attribute)
+14. **target** - Dependent Variable (predicted attribute)
     - 0 = No heart disease
     - 1 = Heart disease
 
