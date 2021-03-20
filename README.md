@@ -1,6 +1,6 @@
 # Heart-Classification-UCI
 
-Machine Learning classification project utilizing various models to predict if a patient has heart disease. Additionally, data visualization was used in this project to showcase various attributes and their relationships with one another.
+This Machine Learning classification project utilizes various models to predict if a patient has heart disease. Additionally, data visualization was used in this project to showcase various attributes and their relationships with one another.
 
 ## Dataset:
 
@@ -46,7 +46,7 @@ Each patient was classified using the following 13 (out of 76) features:
 
 ## Models:
 
-This project utilizes the following Machine Learning models:
+The following Machine Learning models were used for classification:
 
 - Deep Neural Network (DNN) using the Sequential class
 - Logistic Regression (LogReg)
