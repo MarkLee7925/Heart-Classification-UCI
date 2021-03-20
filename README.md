@@ -1,6 +1,6 @@
 # Heart-Classification-UCI
 
-This Machine Learning classification project utilizes various models to predict if a patient has heart disease. Additionally, data visualization was used in this project to showcase various attributes and their relationships with one another.
+This Machine Learning classification project utilizes various models to predict if a patient has heart disease. Additionally, some data visualization was employed via Seaborn to showcase various attributes and their relationships with one another.
 
 ## Dataset:
 
