@@ -26,7 +26,7 @@ Each patient was classified using the following 13 (out of 76) features:
   -- 0 = normal\
   -- 1 = having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV)\
   -- 2 = showing probable or definite left ventricular hypertrophy by Estes' criteria
-8. thalach - Maximum heart rate achieved\
+8. thalach - Maximum heart rate achieved
 9. exang - Exercise induced angina\
   -- 1 = yes\
   -- 0 = no
