@@ -18,7 +18,7 @@ Each patient was classified using the following 13 (out of the original 76) feat
     - 2 = Asymptomatic
     - 3 = Typical
 4. **trestbps** - Resting blood pressure (in mmHg)
-5. **chol** - Serum Cholestorol in (mg/dl)
+5. **chol** - Serum Cholestorol (in mg/dl)
 6. **fbs** - (Fasting blood sugar > 120 mg/dl)
     - 1 = True
     - 0 = False
@@ -49,7 +49,7 @@ Each patient was classified using the following 13 (out of the original 76) feat
 The following Machine Learning models were used for classification:
 
 - Deep Neural Network (DNN) using the Sequential class
-- Logistic Regression (LogReg)
+- Logistic Regression (LR)
 - Random Forest (RF)
 - Support Vector Classification (SVC)
 - XGBoost (XGB)
