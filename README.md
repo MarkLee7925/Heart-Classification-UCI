@@ -54,4 +54,4 @@ This project utilizes the following Machine Learning models:
 - Support Vector Classification (SVC)
 - XGBoost (XGB)
 
-The XGBoost model was determined to be the most consistently accurate at 85.794%.
+The **XGBoost** model was determined to be the most consistently accurate at **85.794%**.
