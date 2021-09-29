@@ -48,10 +48,8 @@ Each patient was classified using the following 13 (out of the original 76) feat
 
 The following Machine Learning models were used for classification:
 
-- Deep Neural Network (DNN) using the Sequential class
 - Logistic Regression (LR)
+- Support Vector Machine (SVM)
 - Random Forest (RF)
-- Support Vector Classification (SVC)
 - XGBoost (XGB)
-
-The **XGBoost** model was determined to be the most consistently accurate at **85.794%**.
+- Deep Neural Network (DNN) 
