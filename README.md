@@ -52,4 +52,11 @@ The following Machine Learning models were used for classification:
 - Support Vector Machine (SVM)
 - Random Forest (RF)
 - XGBoost (XGB)
-- Deep Neural Network (DNN) 
+- Deep Neural Network (DNN)
+
+## References:
+
+- Detrano, R., Janosi, A., Steinbrunn, W., Pfisterer, M., Schmid, J., Sandhu, S., Guppy, K., Lee, S., & Froelicher, V. (1989). International application of a new probability algorithm for the diagnosis of coronary artery disease. American Journal of Cardiology, 64,304--310. [Web Link]
+- David W. Aha & Dennis Kibler. "Instance-based prediction of heart-disease presence with the Cleveland database." [Web Link]
+- Gennari, J.H., Langley, P, & Fisher, D. (1989). Models of incremental concept formation. Artificial Intelligence, 40, 11--61.[Web Link]
+- https://archive.ics.uci.edu/ml/datasets/Heart+Disease
