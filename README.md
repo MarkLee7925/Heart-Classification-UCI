@@ -54,6 +54,10 @@ The following Machine Learning models were used for classification:
 - XGBoost (XGB)
 - Deep Neural Network (DNN)
 
+## DISCLAIMER:
+
+This project is meant for illustration purposes only! No attempt should be made to use the data presented and the obtained results for any other purpose.
+
 ## References:
 
 - Detrano, R., Janosi, A., Steinbrunn, W., Pfisterer, M., Schmid, J., Sandhu, S., Guppy, K., Lee, S., & Froelicher, V. (1989). International application of a new probability algorithm for the diagnosis of coronary artery disease. American Journal of Cardiology, 64,304--310. [Web Link]
