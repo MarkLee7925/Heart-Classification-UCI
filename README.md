@@ -1,6 +1,6 @@
 # Heart-Classification-UCI
 
-This Machine Learning classification project utilizes various models to predict if a patient has heart disease. Additionally, some data visualization was employed to showcase various attributes and their relationships with one another. This can be found in the heart-DNN.ipynb file.
+This Machine Learning classification project utilizes various models to predict if a patient has heart disease. Additionally, some data visualization was employed to showcase various attributes and their relationships with one another. This can be found in the heart-DataVis-DNN.ipynb file.
 
 ## Dataset:
 
