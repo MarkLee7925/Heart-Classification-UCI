@@ -4,7 +4,7 @@ This Machine Learning classification project utilizes various models to predict 
 
 ## Dataset:
 
-The dataset was retrieved from the UCI Machine Learning Repository (link: https://archive.ics.uci.edu/ml/datasets/Heart+Disease). It contained 303 samples; each representing a patient tested. Each patient was classified using 13 (out of the original 76) features. More information can be found in the heart_features.txt file located in the data folder.
+The dataset was retrieved from the UCI Machine Learning Repository (link: https://archive.ics.uci.edu/ml/datasets/Heart+Disease). It contained 303 samples; each representing a patient tested. Each patient was classified using 13 (out of the original 76) features. Further information can be found in the heart_features.txt file located in the data folder.
 
 ## Models:
 
