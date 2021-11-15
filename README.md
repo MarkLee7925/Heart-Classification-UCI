@@ -11,7 +11,7 @@ The dataset was retrieved from the UCI Machine Learning Repository (link: https:
 The following Machine Learning models were used for classification:
 
 - Logistic Regression (LR)
-- Support Vector Machine (SVM)
+- Support Vector Classification (SVC)
 - Random Forest (RF)
 - XGBoost (XGB)
 - Deep Neural Network (DNN)
